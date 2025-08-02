@@ -19,5 +19,5 @@
 - [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering) Reverse Engineering awesome list in [here](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering).
 
 ## Execution based Reverse Engineering
-- Static
-- Dynamic
+- Static reverse engineering
+- Dynamic reverse engineering
