@@ -13,11 +13,19 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
-## OS based [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
+## [OS](https://en.wikipedia.org/wiki/Operating_system) based [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 - [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering) Reverse Engineering awesome list in [here](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering).
 - [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering) Reverse Engineering awesome list in [here](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering).
 - [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering) Reverse Engineering awesome list in [here](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering).
 
-## Execution based Reverse Engineering
+## [Execution](https://en.wikipedia.org/wiki/Execution_(computing)) based [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 - Static reverse engineering
+    - Disassembler,
+    - Decompiler,
+    - Hex Editors,
+    - String Extractors
 - Dynamic reverse engineering
+    - Debugger
+    - Sandboxing Tools
+    - Memory Analysis Tools
+    - Profilers
