@@ -20,8 +20,8 @@
 
 ## [Execution](https://en.wikipedia.org/wiki/Execution_(computing)) based [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 - Static reverse engineering
-    - Disassembler,
-    - Decompiler,
+    - [Disassembler](#disassembler),
+    - [Decompiler](#decompiler),
     - Hex Editors,
     - String Extractors
 - Dynamic reverse engineering
@@ -29,3 +29,18 @@
     - Sandboxing Tools
     - Memory Analysis Tools
     - Profilers
+## Tools
+
+### Disassembler
+- [IDA Pro](https://hex-rays.com/ida-pro) - A powerful disassembler, decompiler and a versatile debugger.
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - [Ghidra](www.nsa.gov/ghidra) is a software reverse engineering (SRE) framework.
+- [objdump](https://en.wikipedia.org/wiki/Objdump) - objdump is a command-line program for displaying various information about object files on Unix-like operating systems.
+
+### Decompiler
+- [RetDec](https://github.com/avast/retdec) - [RetDec](https://retdec.com/) is a retargetable machine-code decompiler based on LLVM.
+- [Snowman](https://github.com/x64dbg/snowman) - Snowman Decompiler for x64dbg.
+
+### Hex Editors
+
+### String Extractors
+
