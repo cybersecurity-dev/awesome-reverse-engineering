@@ -1,4 +1,8 @@
-# Awesome [Reverse](https://en.wikipedia.org/wiki/Static_program_analysis) [Engineering](https://en.wikipedia.org/wiki/Dynamic_program_analysis) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+    
+# **`Awesome`** [Reverse](https://wikipedia.org/wiki/Static_program_analysis) [Engineering](https://wikipedia.org/wiki/Dynamic_program_analysis) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering)
