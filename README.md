@@ -43,6 +43,14 @@
     - Profilers
 ## Tools
 
+### OS
+- [REMnux: A Linux Toolkit for Malware Analysts](https://remnux.org/) - REMnux is a Linux toolkit for reverse-engineering and analyzing malicious software.
+- [FLARE-VM](https://github.com/mandiant/flare-vm) - a collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a virtual machine (VM).
+
+### AI powered Binary Analysis Platform
+- [RevEng.AI](https://reveng.ai/) - The AI Binary Analysis Platform.
+- [WAIRZ](https://wairz.ai/) - AI-assisted firmware reverse engineering and security assessment platform.
+
 ### Disassembler
 - [IDA Pro](https://hex-rays.com/ida-pro) - A powerful disassembler, decompiler and a versatile debugger.
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - [Ghidra](www.nsa.gov/ghidra) is a software reverse engineering (SRE) framework.
