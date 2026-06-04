@@ -21,6 +21,10 @@
 - [OS based Reverse Engineering](#os-based-reverse-engineering)
 - [Execution based Reverse Engineering](#execution-based-reverse-engineering)
 - [Tools](#tools)
+    - [OS](#os)
+    - [AI powered Binary Analysis Platform](#ai-powered-binary-analysis-platform)
+    - [Disassembler](#disassembler)
+    - [Decompiler](#decompiler)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
@@ -70,11 +74,12 @@
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
 ### Contributing
-
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-reverse-engineering/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-reverse-engineering-)
