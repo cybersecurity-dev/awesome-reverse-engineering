@@ -1,4 +1,11 @@
-Repository: GitHub `cybersecurity-dev/awesome-reverse-engineering`
-Branch: `main`
-Directory: `./Handbook`
-Output file: `Handbook/gitbook-docs.yaml`
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Reverse Engineering Handbook
+  structure:
+    - type: space
+      key: handbook
+      title: Handbook
+      path: /
+      default: true
+      content:
+        directory: .
