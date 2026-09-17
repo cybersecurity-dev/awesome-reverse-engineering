@@ -46,22 +46,23 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-## [OS](https://en.wikipedia.org/wiki/Operating_system) based [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
+## [OS](https://wikipedia.org/wiki/Operating_system) based [Reverse Engineering](https://wikipedia.org/wiki/Reverse_engineering)
 - [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering) Reverse Engineering awesome list in [here](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering).
 - [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering) Reverse Engineering awesome list in [here](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering).
 - [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering) Reverse Engineering awesome list in [here](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering).
 
-## [Execution](https://en.wikipedia.org/wiki/Execution_(computing)) based [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
+## [Execution](https://wikipedia.org/wiki/Execution_(computing)) based [Reverse Engineering](https://wikipedia.org/wiki/Reverse_engineering)
 - Static reverse engineering
     - [Disassembler](#disassembler),
     - [Decompiler](#decompiler),
     - Hex Editors,
     - String Extractors
 - Dynamic reverse engineering
-    - Debugger
-    - Sandboxing Tools
-    - Memory Analysis Tools
-    - Profilers
+    - Debugger,
+    - Sandboxing Tools,
+    - Memory Analysis Tools,
+    - Profilers,
+
 ## Tools
 
 ### OS
@@ -75,7 +76,7 @@
 ### Disassembler
 - [IDA Pro](https://hex-rays.com/ida-pro) - A powerful disassembler, decompiler and a versatile debugger.
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - [Ghidra](www.nsa.gov/ghidra) is a software reverse engineering (SRE) framework.
-- [objdump](https://en.wikipedia.org/wiki/Objdump) - objdump is a command-line program for displaying various information about object files on Unix-like operating systems.
+- [objdump](https://wikipedia.org/wiki/Objdump) - objdump is a command-line program for displaying various information about object files on Unix-like operating systems.
 
 ### Decompiler
 - [RetDec](https://github.com/avast/retdec) - [RetDec](https://retdec.com/) is a retargetable machine-code decompiler based on LLVM.
